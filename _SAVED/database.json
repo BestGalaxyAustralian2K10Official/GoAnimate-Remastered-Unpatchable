@@ -1,0 +1,28 @@
+{
+	"assets": [
+		{
+			"duration": 3264,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[US Male 1 (TikTok)] this is test of go animate remastered unpatchable",
+			"id": "dd30c106.mp3"
+		},
+		{
+			"duration": 3168,
+			"type": "sound",
+			"subtype": "tts",
+			"title": "[US Male 1 (TikTok)] this is test of goanimate remastered unpatchable",
+			"id": "acbcd54c.mp3"
+		}
+	],
+	"movies": [
+		{
+			"id": "6c9f1872",
+			"duration": "00:03",
+			"date": "2023-08-24T14:54:21.950Z",
+			"title": "ll",
+			"sceneCount": 1,
+			"watermark": "0vTLbQy9hG7k"
+		}
+	]
+}

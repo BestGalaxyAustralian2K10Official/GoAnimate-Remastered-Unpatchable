@@ -7,7 +7,7 @@ GARU is a revival for GoAnimate Remastered, an easy-to-use GoAnimate Server Emul
 For support, the first thing you should do is read through the FAQ, it most likely has what you want to know. Alternatively, if you can't find what you need, you can join the [Discord server](soon). Joining the server is recommended, as there is a whole community to help you out.
 
 ## Dependencies
-This program relies on Flash and FFmpeg to work properly. Luckily, they require no download, as they have already been included in FreeAnimate.
+This program relies on Flash and FFmpeg to work properly. Luckily, they require no download, as they have already been included in GoAnimate Remastered Unpatchable 0.0.3.
 
 ## License
 Most of this project is free/libre software under the MIT license. You have the freedom to run, change, and share this as much as you want.

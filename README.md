@@ -23,3 +23,6 @@ Name | Contribution
 [It'sJay](https://github.com/PoleyMagik) | Asset Store Archive, client modifications
 
 No members of the original GoAnimate Wrapper team are officially working on Offline, even if they have contributed. Some members of the original team have asked to not be given credit, and they have been removed.
+
+## Is able for custom assets?
+The answer is yes! you can able for custom assets on GARU
